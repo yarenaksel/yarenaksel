@@ -4,7 +4,7 @@
   Data science and data analysis are among my current passitions.</p>
 
 <h2 align="left">Some of my projects</h2>
-<h4 align="left">Analyzing video games sales data with Python and Python libraries</h4>
+<h5 align="left">Analyzing video games sales data with Python and Python libraries</h5>
 <h3 align="left">Analyzing and cleaning US cost of living in MSSql</h3>
 <h3 align="left">Visualization of US cost of living in Tableau</h3>
 <h3 align="left">Housing prices Kaggle ML competition</h3>
