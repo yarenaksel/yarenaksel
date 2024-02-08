@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi I'm Yaren 👋
 
 <!--
-**yarenaksel/yarenaksel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm a physicist by education and I'm possitonately learning about how things work in the world of physics and computer science.
 
-Here are some ideas to get you started:
+Data science and data analysis are among my current passitions.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
