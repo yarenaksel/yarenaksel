@@ -1,11 +1,11 @@
-<h2>Hi 👋, I'm Yaren</h2>
+<h2>Hi, I'm Yaren 👋🏻</h2>
 <p>I'm a physicist by education and I'm possitonately learning about how things work in the world of physics and computer science. 
   
   Data science and data analysis are among my current passitions.</p>
 
 <h2 align="left">Some of my projects</h2>
-<h3 align="left">Analyzing video games sales data</h3>
-<h3 align="left"></h3>
+<h3 align="left">Analyzing video games sales data with Python and Python libraries</h3>
+<h3 align="left">Data analysis and cleaning with SQL by using MSSql</h3>
 <p align="left">
 </p>
 
