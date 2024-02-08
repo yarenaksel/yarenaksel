@@ -9,7 +9,8 @@
 
 
 <h4 align="left">Analyzing and cleaning US cost of living in Microsoft SQL Server</h4>
-<p align="left">https://github.com/yarenaksel/PortfolioProjects/blob/main/cost_of_living.sql</p>
+<p align="left">-- For this project SQL server management studio is used for getting data to create a Tableau dashboard and some data analysis. With this link you can find out ways to manipulate data based on some of my questions about cost of living in Minnesota.
+  https://github.com/yarenaksel/PortfolioProjects/blob/main/cost_of_living.sql</p>
 
 <h4 align="left">Visualization of US cost of living in Tableau</h4>
 <p align="left">https://public.tableau.com/views/MinnesotaCostofLiving/MinnesotaCostofLiving?:language=en-US&:display_count=n&:origin=viz_share_link</p>
