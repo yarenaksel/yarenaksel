@@ -1,5 +1,7 @@
 <h2>Hi 👋, I'm Yaren</h2>
-<p>I'm a physicist by education and I'm possitonately learning about how things work in the world of physics and computer science. Data science and data analysis are among my current passitions.</p>
+<p>I'm a physicist by education and I'm possitonately learning about how things work in the world of physics and computer science. 
+  
+  Data science and data analysis are among my current passitions.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
