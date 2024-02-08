@@ -7,7 +7,7 @@
 <h4 align="left">Analyzing and visualization video games sales dataset with Python and Python libraries</h4>
 <p align="left">https://www.kaggle.com/code/yarena/video-games-analysis</p>
 <h4 align="left">Analyzing and cleaning US cost of living in Microsoft SQL Server</h4>
-<p align="left">https://github.com/yarenaksel/PortfolioProjects/blob/478049e2c0b3098599ce8b9fcfb7240ec7a286f5/cost_of_living.sql</p>
+<p align="left">https://github.com/yarenaksel/PortfolioProjects/blob/main/cost_of_living.sql</p>
 <h4 align="left">Visualization of US cost of living in Tableau</h4>
 <p align="left">https://public.tableau.com/views/MinnesotaCostofLiving/MinnesotaCostofLiving?:language=en-US&:display_count=n&:origin=viz_share_link</p>
 <h4 align="left">Spaceship Titanic Dataset with TensorFlow Decision Forests</h4>
