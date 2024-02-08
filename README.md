@@ -3,7 +3,9 @@
   
   Data science and data analysis are among my current passitions.</p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Some of my projects</h3>
+<h1 align="left">Analyzing video games sales data</h1>
+<h1 align="left"></h1>
 <p align="left">
 </p>
 
