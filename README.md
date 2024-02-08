@@ -5,7 +5,7 @@
 
 <h2 align="left">Some of my projects</h2>
 <h4 align="left">Analysis and visualization of video games sales dataset with Python and Python libraries</h4>
-<p align="left"> You can find more about it [here](https://github.com/yarenaksel/PortfolioProjects/blob/main/video-games-analysis.ipynb) [here]([url](https://github.com/yarenaksel/PortfolioProjects/blob/main/video-games-analysis.ipynb))</p>
+<p align="left"> You can find more about it [here](https://github.com/yarenaksel/PortfolioProjects/blob/main/video-games-analysis.ipynb) [here](https://github.com/yarenaksel/PortfolioProjects/blob/main/video-games-analysis.ipynb)</p>
 <h4 align="left">Analyzing and cleaning US cost of living in Microsoft SQL Server</h4>
 <p align="left">https://github.com/yarenaksel/PortfolioProjects/blob/main/cost_of_living.sql</p>
 <h4 align="left">Visualization of US cost of living in Tableau</h4>
