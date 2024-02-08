@@ -7,7 +7,7 @@
 <h5 align="left">Analyzing video games sales data with Python and Python libraries</h5>
 <h5 align="left">Analyzing and cleaning US cost of living in MSSql</h5>
 <h5 align="left">Visualization of US cost of living in Tableau</h5>
-<h5 align="left">Housing prices Kaggle ML competition</h5>
+<h5 align="left">Housing prices Kaggle ML competition (Top 13%)</h5>
 <p align="left">
 </p>
 
